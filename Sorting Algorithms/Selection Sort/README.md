@@ -1,5 +1,5 @@
 ## **Selection sort**
-Given an array A having N positive integers. Sort the array A using bubble sort.
+Given an array A having N positive integers. Sort the array A using selection sort.
 
 #### **Sample Input**
 	input: N = 5
