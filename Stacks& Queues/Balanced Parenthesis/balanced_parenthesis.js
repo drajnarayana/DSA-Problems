@@ -1,5 +1,5 @@
 let S="[()]{}";
-
+// let S="[(])"
 let N=S.length;
 balanced(S,N)
 function balanced(S,N){
